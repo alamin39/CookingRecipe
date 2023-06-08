@@ -1,5 +1,5 @@
 # CookingRecipe
-A SwiftUI application for saving your own Recipes
+A SwiftUI application for saving cooking recipes
 
 ### Technology 
 
